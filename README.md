@@ -30,3 +30,7 @@ $ python manage.py createsuperuser
 * For customer details ```http://127.0.0.1:8000/customer//<int:pk>/``` (pk is the users phone number)
 * For subscription ```http://127.0.0.1:8000/customer//<int:pk>/subs/```
 * For subscription cancellation ```http://127.0.0.1:8000/customer//<int:pk>/subs/cancel```
+
+
+### Demonstration
+```https://www.youtube.com/watch?v=WMgOenyrWJo```
