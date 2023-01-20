@@ -379,8 +379,10 @@ poetry.toml
 .idea/healthos5.iml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/inspectionProfiles/profiles_settings.xml
-.idea/Subscription_Based_Enterprise_Customer.iml
+.idea/Subscription_Based_Enterprise_Customer_API.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
 credentials
+enterprise/migrations/*
+!enterprise/migrations/__init__.py
